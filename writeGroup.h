@@ -1,0 +1,1 @@
+int writeGroup(char* group_name, char* content);
